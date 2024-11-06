@@ -1,0 +1,14 @@
+Version 1.0 (30/10/2018)
+- Initial Release.
+
+Version 1.1 (31/10/2018)
+- Fixes on "highlight_grid_item" color value
+
+Version 1.2 (02/11/2018)
+- New "recent" icon added
+- Code updates to "properties.xml" from source
+
+Version 1.3 (06/11/2024)
+
+- Add to "properties.xml" new entry: <!--<entry key="solid_color_icons">yes</entry>-->
+- Change all the icons to support transparency for the MiXplorer v6.68.x

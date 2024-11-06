@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+
+	<!-- MiXplorer Version: 6.28.x -->
+	<!-- Theme Version: 1.3 -->
+	<!-- https://terrorflatrider.com -->
+	
+	<entry key="title">NEON Yellow</entry>
+	<entry key="author">TerrorFlatRider</entry>
+ 
+	<!-- General -->
+	<entry key="density">320</entry>
+	<entry key="light_status_bar">false</entry> <!-- true for dark status bar icons -->
+	<entry key="thumb_size">76</entry> <!-- dp -->
+	<entry key="thumb_quality">60</entry> <!-- Percent -->
+	<entry key="wallpaper">true</entry>
+	<entry key="translucent_system_bars">true</entry>
+	<entry key="background_dim">100</entry> <!-- Background Transparency (0~100) -->
+	<entry key="uppercase_buttons">true</entry> <!-- Uppercase Text on Buttons -->
+	<entry key="menu_overlap_anchor">false</entry>
+	<!-- <entry key="fullscreen">false</entry> -->
+	<!-- <entry key="bold_grid_primary_text">true</entry> -->
+	<!-- <entry key="square_icons">true</entry> -->
+
+
+	<!-- Fonts -->
+	<!--
+	<entry key="font_primary"></entry>
+	<entry key="font_secondary"></entry>
+	<entry key="font_editor"></entry>
+	<entry key="font_hex"></entry>
+	<entry key="font_title"></entry>
+	<entry key="font_popup"></entry>
+	-->
+  	
+	<!-- Status Bar Color -->
+	<entry key="tint_status_bar">#000000</entry>
+
+	<!-- Navigation Bar Color -->
+	<entry key="tint_navigation_bar">#000000</entry>
+
+	<!-- Action Bar Background Color -->
+	<entry key="bg_bar_action">#000000</entry>
+
+	<!-- Main Bar Background Color -->
+	<entry key="bg_bar_main">#000000</entry>
+
+	<!-- Main Bar Text -->
+	<entry key="text_bar_main_primary">#FFE600</entry>
+	<entry key="text_bar_main_secondary">#606060</entry>
+
+	<!-- ToolBar Background Color -->
+	<entry key="bg_bar_tools">#000000</entry>
+
+	<!-- Main Background Color -->
+	<entry key="bg_page">#000000</entry>
+
+	<!-- Tab Background Color -->
+	<entry key="bg_bar_tab">#000000</entry>
+
+	<!-- Tab Indicator Color -->
+	<entry key="tint_tab_indicator">#202020</entry>
+	<entry key="tint_tab_indicator_selected">#FFE600</entry>
+
+	<!-- Tab Text Color -->
+	<entry key="text_bar_tab_default">#606060</entry>
+	<entry key="text_bar_tab_selected">#FFE600</entry>
+
+	<!-- Highlights -->
+	<entry key="highlight_bar_action_buttons">#ffffff</entry>
+	<entry key="highlight_bar_main_buttons">#ffffff</entry>
+	<entry key="highlight_bar_tab_buttons">#ffffff</entry>
+	<entry key="highlight_bar_tool_buttons">#ffffff</entry>
+	<entry key="highlight_grid_item">#685E00</entry> <!-- Search Highlight & Selection Highlight on Grid & Editor -->
+	<entry key="highlight_popup_list_item">#303030</entry>
+	<entry key="highlight_popup_controls">#303030</entry>
+
+	<!-- Syntax Colors for Code Editor-->
+	<entry key="syntax_attr">#C201A9</entry>
+	<entry key="syntax_attr_value">#6DE493</entry>
+	<entry key="syntax_comment">#777777</entry>
+	<entry key="syntax_keyword">#8C66FE</entry>
+	<entry key="syntax_string">#6DE493</entry>
+	<entry key="syntax_symbol">#468FC2</entry>
+
+	<!-- Link Text -->
+	<entry key="text_link">#FFE600</entry>
+	<entry key="text_link_pressed">#ffffff</entry>
+
+	<!-- Button Text -->
+	<entry key="text_button">#909090</entry>
+	<entry key="text_button_inverse">#606060</entry>
+
+	<!-- Editor Text -->
+	<entry key="text_editor_foreground">#FFFFFF</entry>
+
+	<!-- Edit Box Text -->
+	<entry key="text_edit_box">#ffffff</entry>
+	<entry key="text_edit_box_hint">#ffffff</entry>
+	<entry key="text_edit_selection_background">#FFE600</entry>
+	<entry key="text_edit_selection_foreground">#ffffff</entry>
+	<entry key="text_filter_box">#909090</entry>
+	<entry key="text_filter_box_hint">#606060</entry>
+
+	<!-- Grid Item Text-->
+	<entry key="text_grid_primary">#FFE600</entry>
+	<entry key="text_grid_primary_inverse">#FFFFFF</entry>
+	<entry key="text_grid_secondary">#606060</entry>
+	<entry key="text_grid_secondary_inverse">#BBBBBB</entry>
+
+	<!-- Popup Text - Sidebar Text-->
+	<entry key="text_popup_header">#909090</entry>
+	<entry key="text_popup_primary">#FFE600</entry>
+	<entry key="text_popup_primary_inverse">#aaaaaa</entry>
+	<entry key="text_popup_secondary">#606060</entry>
+	<entry key="text_popup_secondary_inverse">#BBBBBB</entry>
+
+	<!-- Scroll Overlay Text -->
+	<entry key="text_scroll_overlay">#000000</entry>
+	
+	<!-- Scroll Thumbs -->
+	<entry key="tint_scroll_thumbs">#FFE600</entry>
+
+	<!-- Icons -->
+	<entry key="solid_color_icons">yes</entry>
+	<entry key="tint_bar_action_icons">#FFE600</entry>
+	<entry key="tint_bar_main_icons">#FFE600</entry>
+	<entry key="tint_bar_tab_icons">#FFE600</entry>
+	<entry key="tint_bar_tools_icons">#FFE600</entry>
+
+	<!-- Dividers -->
+	<entry key="tint_divider_files">#101010</entry>
+	<entry key="tint_divider_popup_list">#101010</entry>
+	<entry key="tint_divider_settings">#101010</entry>
+
+	<!-- Folder -->
+	<entry key="tint_folder">#FFE600</entry>
+	
+	<!-- Tint Side Bar Icons -->
+	<!-- <entry key="tint_file"></entry> -->
+
+	<!-- Grid Item -->
+	<entry key="tint_grid_item">#FFE600</entry>
+
+	<!-- Icon Signs -->
+	<entry key="tint_icon_signs">#FFE600</entry>
+
+	<!-- Notification Buttons -->
+	<entry key="tint_notification_buttons">#FFE600</entry>
+
+	<!-- Page Separator -->
+	<entry key="tint_page_separator">#FFE600</entry>
+
+	<!-- Popup Background Color -->
+	<entry key="tint_popup_bg">#000000</entry>
+
+	<!-- Popup Colors -->
+	<entry key="tint_popup_controls">#FFE600</entry>
+	<entry key="tint_popup_controls_pressed">#FFE600</entry>
+	<entry key="tint_popup_icons">#FFE600</entry>
+
+	<!-- Progress Bar -->
+	<entry key="tint_progress_bar">#FFE600</entry>
+	<entry key="tint_progress_track">#202020</entry>
+
+	<!-- Widget -->
+	<entry key="tint_widget_off">#000000</entry>
+	<entry key="tint_widget_on">#000000</entry>
+
+	<!-- Edge Effect -->
+	<entry key="tint_edge_effect">#ffffff</entry>
+
+	<!-- Splash Screen-->
+	<entry key="splash_screen">#d6d6d6</entry>
+	
+	<!--
+	<entry key="dialog_close_in_header"></entry>
+    <entry key="dialog_footer_right"></entry>
+	-->
+
+</properties>

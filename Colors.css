@@ -1,0 +1,37 @@
+/*AMOLED Themes*/
+
+Cyan        {color:#02F3FF;}		
+Green       {color:#24FF57;}
+Monochrome  {color:#C4C4C4;}
+Orange      {color:#FF5B03;}
+Pink		{color:#FF00DF;}
+Purple		{color:#7A01FF;}
+Red			{color:#FB000B;}
+Teal		{color:#01FEC5;}
+Yellow 		{color:#FFDF02;}
+
+/*LIGHT Themes*/
+
+Black 		{color:#000000;}
+Blue		{color:#03A9F4;}
+Green		{color:#4CAF50;}
+Orange		{color:#FF5722;}
+Pink		{color:#E91E60;}
+Purple		{color:#7A01FF;}
+Red			{color:#D80B43;}
+Teal		{color:#009688;}
+Yellow		{color:#FFD835;}
+
+/*ΝΕΟΝ Themes*/
+
+Cyan		   /*Primary:*/ {color:#00FFFF;   /*Secondary:*/ color:#006767;}
+Fuchsia	       /*Primary:*/ {color:#FF0062;   /*Secondary:*/ color:#880033;}
+Blue		   /*Primary:*/ {color:#1200FF;   /*Secondary:*/ color:#06005B;}
+Green		   /*Primary:*/ {color:#76FF03;   /*Secondary:*/ color:#2D6400;}
+Mandarin       /*Primary:*/ {color:#FD5F00;   /*Secondary:*/ color:#7B2F00;}
+Purple	       /*Primary:*/ {color:#7A01FF;   /*Secondary:*/ color:#3E0181;}
+Red			   /*Primary:*/ {color:#FF0000;   /*Secondary:*/ color:#680000;}
+Teal		   /*Primary:*/ {color:#00FFB6;   /*Secondary:*/ color:#00573F;}
+White	 	   /*Primary:*/ {color:#FFFFFF;   /*Secondary:*/ color:#4C4C4C;}
+Yellow 	       /*Primary:*/ {color:#FFE600;   /*Secondary:*/ color:#685E00;}
+
