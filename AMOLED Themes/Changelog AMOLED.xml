@@ -28,3 +28,4 @@ Version 1.6 (06/11/2024)
 
 - Add to "properties.xml" new entry: <!--<entry key="solid_color_icons">yes</entry>-->
 - Change all the icons to support transparency for the MiXplorer v6.68.x
+- New "net_dlna" icon added
